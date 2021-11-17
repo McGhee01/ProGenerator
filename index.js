@@ -11,6 +11,7 @@ inquirer
     {
       type: "input",
       message: " What is the title of your project?",
+      //Whatever you type in name string will appear once node is ran.
       name: "title"
     },
     {
@@ -20,18 +21,38 @@ inquirer
     },
     {
       type: "input",
-      message: " What will your project consist of?",
-      name: "bio",
+      message: " What steps were taken to create your project?",
+      name: "setup/installation",
     },
     {
       type: "input",
-      message: "What was downloaded/input for your project",
-      name: "linkedIn",
+      message: "What technologies were used for your project",
+      name: "technology used",
     },
     {
       type: "input",
-      message: " What methods was used to complete your project?",
-      name: "gitHub",
+      message: " What problems did you have while completing your project?",
+      name: "known bugs",
+    },
+    {
+      type: "input",
+      message: " List support team or person email responsible for this project.",
+      name: "support",
+    },
+    {
+      type: "input",
+      message: " List any contributions made to this project.",
+      name: "support",
+    },
+    {
+      type: "input",
+      message: " List any contribution site(s) tied to this project.",
+      name: "contributor",
+    },
+    {
+      type: "input",
+      message: " List any liscense(s) for the project created.",
+      name: "liscense",
     },
 
   ]) 

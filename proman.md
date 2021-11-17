@@ -1,15 +1,11 @@
-# ProGenerator
-
+# ProMan
   ## Description
   # Great
-
   ## Bio
-  # HTML,CSS
-
+  # undefined
   ## Links 1
-  # SQL
-  
+  # undefined
   ## LInk 2
-  # Bootstrap
+  # undefined
 
 
