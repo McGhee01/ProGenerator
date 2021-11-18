@@ -15,26 +15,28 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ## Description
    ${data.description}
-  ## Setup/Installation
+  ## TableofContents
+   ${data.tableofcontents}
+  ## Installation/Setup
    ${data.setup}
-  ## Technology Used
-   ${data.technologyused}
    * First item
   * Second item
   * Third item
   * Fourth item
-  ## Known Bugs
-   ${data.knownbugs}
-  ## Support
-   ${data.support}
-  ## Contribution
+  ## Usage
+   ${data.usage}
+  ## Liscense
+   ${data.liscense}
+  ## Contributor
    ${data.contributor}
    1. First item
   2. Second item
   3. Third item
   4. Fourth item
-  ### Liscense
-   ${data.liscense}
+  ### Tests
+   ${data.tests}
+   ### Questions
+   ${data.questions}
   
 
 
