@@ -16,6 +16,11 @@ inquirer
     },
     {
       type: "input",
+      message: " Do you have a liscense present?",
+      name: "liscense",
+    },
+    {
+      type: "input",
       message: " What is the purpose of your project?",
       name: "description",
     },
@@ -26,18 +31,13 @@ inquirer
     },
     {
       type: "input",
-      message: " What steps were taken to create your project?",
-      name: "installation/setup",
+      message: " What was installed to start your project?",
+      name: "installation",
     },
     {
       type: "input",
-      message: "What technologies were used for your project",
+      message: "What can you use this for in the future? ",
       name: "usage",
-    },
-    {
-      type: "input",
-      message: " Do you have a liscense present?",
-      name: "liscense",
     },
     {
       type: "input",
@@ -53,6 +53,11 @@ inquirer
       type: "input",
       message: " Where or whom do you contact to ask questions?",
       name: "questions",
+    },
+    {
+      type: "input",
+      message: " How can you be contacted?",
+      name: "contactinfo",
     },
 
   ]) 
