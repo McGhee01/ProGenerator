@@ -21,11 +21,6 @@
   ## Usage
    Future README needed to make an employer wanna hop out his seat and start dancing
 
-  <!-- ## Liscense
-   Yes.
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
-
-
   ## Contributor
    N/A
 
@@ -36,10 +31,5 @@
   * https://github.com/McGhee01
   * https://mail.google.com/mail/u/0/#inbox
 
-   <!-- ### Contact Info
-   Contact info above
-   * https://github.com/McGhee01
-   * https://mail.google.com/mail/u/0/#inbox -->
-  
 
 

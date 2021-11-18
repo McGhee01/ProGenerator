@@ -48,12 +48,7 @@ function generateMarkdown(data) {
    ${data.questions}
    * https://github.com/McGhee01
    * https://mail.google.com/mail/u/0/#inbox
-
-   ### Contact Info
-   ${data.contactinfo}
-   * https://github.com/McGhee01
-   * https://mail.google.com/mail/u/0/#inbox
-  
+   
 `;
 }
 

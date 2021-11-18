@@ -54,12 +54,6 @@ inquirer
       message: " Where or whom do you contact to ask questions?",
       name: "questions",
     },
-    {
-      type: "input",
-      message: " How can you be contacted?",
-      name: "contactinfo",
-    },
-
   ]) 
 
   .then((data) => {
