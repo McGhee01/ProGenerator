@@ -16,33 +16,28 @@ inquirer
     },
     {
       type: "input",
-      message: " Describe your project.",
+      message: " What is the purpose of your project?",
       name: "description",
     },
     {
       type: "input",
+      message: " How do you keep it organized?",
+      name: "tableofcontents",
+    },
+    {
+      type: "input",
       message: " What steps were taken to create your project?",
-      name: "setup/installation",
+      name: "installation/setup",
     },
     {
       type: "input",
       message: "What technologies were used for your project",
-      name: "technology used",
+      name: "usage",
     },
     {
       type: "input",
-      message: " What problems did you have while completing your project?",
-      name: "known bugs",
-    },
-    {
-      type: "input",
-      message: " List support team or person email responsible for this project.",
-      name: "support",
-    },
-    {
-      type: "input",
-      message: " List any contributions made to this project.",
-      name: "support",
+      message: " Do you have a liscense present?",
+      name: "liscense",
     },
     {
       type: "input",
@@ -51,8 +46,13 @@ inquirer
     },
     {
       type: "input",
-      message: " List any liscense(s) for the project created.",
-      name: "liscense",
+      message: " Have you run any tests to make sure your project is ready for deployment?",
+      name: "tests",
+    },
+    {
+      type: "input",
+      message: " Where or whom do you contact to ask questions?",
+      name: "questions",
     },
 
   ]) 
