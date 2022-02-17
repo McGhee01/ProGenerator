@@ -14,29 +14,28 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## License
+  ${data.license}
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description
    ${data.description}
 
   ## TableofContents
-   ${data.tableofcontents}
-   * Installation
-   * Usage
-   * Liscense
-   * Contributing
-   * Tests
-   * Questions
-   * Contact Info 
+      
+  - [Description](#description)
+  - [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributor](#contributor)
+  - [Tests](#tests)
+  - [Questions](#questions)
    
   ## Installation
    ${data.installation}
 
   ## Usage
    ${data.usage}
-
-  ## Liscense
-   ${data.liscense}
-   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 
   ## Contributor
    ${data.contributor}

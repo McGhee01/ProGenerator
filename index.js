@@ -17,7 +17,7 @@ inquirer
     {
       type: "input",
       message: " Do you have a liscense present?",
-      name: "liscense",
+      name: "license",
     },
     {
       type: "input",
@@ -27,7 +27,7 @@ inquirer
     {
       type: "input",
       message: " How do you keep it organized?",
-      name: "tableofcontents",
+      name: "table of contents",
     },
     {
       type: "input",
