@@ -1,11 +1,11 @@
 # ProGenerator
 
   ## License
-  Yea\es\\
+  MIT
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-   To generate professional README
+   To generate README that are presentable and ready to use 
 
   ## TableofContents
       
@@ -21,16 +21,16 @@
    npm init
 
   ## Usage
-   TO have great README
+   To generate README for future assignments/projects
 
   ## Contributor
-   ME
+   N/A
 
   ### Tests
-   YEs
+   Yes
 
    ### Questions
-   Myself
+   Mysel via email
    * https://github.com/McGhee01
    * https://mail.google.com/mail/u/0/#inbox
    
